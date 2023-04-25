@@ -1,0 +1,5 @@
+conda activate mozart
+python3 main.py <input directory path> <output directory path>
+
+
+(mozart) C:\Users\Gnegnel\Desktop\Mozart-main\src>python main.py C:\Users\Gnegnel\Desktop\Mozart-main\testcases C:\Users\Gnegnel\Desktop\Mozart-main\output\txt
